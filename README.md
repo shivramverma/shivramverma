@@ -1,22 +1,22 @@
 # Hi 👋, I'm Shiv Ram Verma
-# Sr. IT Proffetional | IT Infrastructure Specialist | Tech Blogger (India)
+ Sr. IT Proffetional | IT Infrastructure Specialist | Tech Blogger (India)
 
 # 👨‍💻 About Me
 
 I am a results-driven Sr. IT Proffetional  with more than 11 years of experience across IT Infrastructure, System Administration, Virtualization, Networking, Security, and Cloud-enabling workflows.
 I manage enterprise-grade infrastructure, design resilient solutions, and create strategic IT improvements.
 
-# 🔭 Current Focus: Infrastructure automation, security hardening, and cloud architecture
+ 🔭 Current Focus: Infrastructure automation, security hardening, and cloud architecture
 
-# 🌱 Learning: DevOps (CI/CD), Cloud Security, GCP advancements
+ 🌱 Learning: DevOps (CI/CD), Cloud Security, GCP advancements
 
-# 💬 Ask Me About: Windows/Linux servers, VMware, DNS/DHCP, Apache/Nginx, MySQL, enterprise IT
+💬 Ask Me About: Windows/Linux servers, VMware, DNS/DHCP, Apache/Nginx, MySQL, enterprise IT
 
-# 🎯 Mission: To simplify complex IT operations through automation & documentation
+🎯 Mission: To simplify complex IT operations through automation & documentation
 
-# ⚡ Fun Fact: I run “TechInsights with Shiv Ram Verma” — my bi-weekly IT newsletter
+ ⚡ Fun Fact: I run “TechInsights with Shiv Ram Verma” — my bi-weekly IT newsletter
 
-# 🛠️ Skills & Expertise
+ 🛠️ Skills & Expertise
 Infrastructure & Systems
 
 Windows Server | Linux (Ubuntu, CentOS, RHEL)
